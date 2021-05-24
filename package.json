@@ -8,9 +8,11 @@
   },
   "dependencies": {
     "@apollo/client": "3.1.1",
+    "@next/bundle-analyzer": "^10.2.2",
+    "@sentry/nextjs": "^6.4.1",
     "deepmerge": "^4.2.2",
-    "lodash": "4.17.20",
     "graphql": "^15.3.0",
+    "lodash": "4.17.20",
     "next": "latest",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
